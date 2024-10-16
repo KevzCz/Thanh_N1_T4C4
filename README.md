@@ -13,3 +13,19 @@ I'm currently collaborating on three exciting group projects:
 - 🛠️ **VietTour**
 - 🎭 **Phoney Baloney**
 - 📚 **Quản lý câu lạc bộ**
+
+[![Bisect Hosting](https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_Features.webp)](https://bisecthosting.com/PixelDream)
+Here are some projects I'm working on or is currently being worked on.
+<div style="display: inline-block;">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/kevs-tierify-modifiers">
+    <img src="https://github.com/user-attachments/assets/7aeaf83e-9360-4a3c-953d-1e4fafe6bd31" alt="Kev's Tierify Modifiers" width="300"/>
+  </a>
+  <a href="https://www.curseforge.com/minecraft/modpacks/fantasy-minecraft-fabric">
+    <img src="https://github.com/user-attachments/assets/95e48132-1bc8-49b5-bbad-bd27fab61d9a" alt="Fantasy Minecraft" width="300"/>
+  </a>
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/3fff39f6-5ab9-46f3-9ade-f166b328aba1" alt="Fantasy Minecraft" width="300"/>
+  </a>
+</div>
+
+
