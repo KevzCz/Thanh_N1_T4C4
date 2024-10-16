@@ -16,7 +16,7 @@ I'm currently collaborating on three exciting group projects:
 
 [![Bisect Hosting](https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_Features.webp)](https://bisecthosting.com/PixelDream)
 Here are some projects I'm working on or is currently being worked on.
-<div style="display: inline-block;">
+<div style="display: inline-block; height: 200">
   <a href="https://www.curseforge.com/minecraft/mc-mods/kevs-tierify-modifiers">
     <img src="https://github.com/user-attachments/assets/7aeaf83e-9360-4a3c-953d-1e4fafe6bd31" alt="Kev's Tierify Modifiers" width="300"/>
   </a>
