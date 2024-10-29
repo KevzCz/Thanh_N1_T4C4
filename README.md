@@ -2,8 +2,9 @@
 I’m currently a third-year IT student at **Huflit University**.
 
 👥 I'm part of **Group 1** of **T4C4**.
-
-[![Bisect Hosting](https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_About.webp)](https://bisecthosting.com/PixelDream)
+<a href="https://bisecthosting.com/PixelDream" title="Click me">
+  <img src="https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_About.webp" alt="Bisect Hosting" />
+</a>
 
 ## My Hobbies
 I create **[Minecraft mods & modpacks](https://www.curseforge.com/members/kevzcz/projects)** in my free time.
