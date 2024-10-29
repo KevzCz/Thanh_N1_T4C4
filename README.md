@@ -9,7 +9,7 @@ I’m currently a third-year IT student at **Huflit University**.
 ## My Hobbies
 I create **[Minecraft mods & modpacks](https://www.curseforge.com/members/kevzcz/projects)** in my free time.
 
-## Current Group Projects
+## Current University Group Projects
 I'm currently collaborating on three exciting group projects:
 - 🛠️ **VietTour**
 - 🎭 **Phoney Baloney**
