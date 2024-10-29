@@ -15,7 +15,7 @@ I'm currently collaborating on three exciting group projects:
 - 🎭 **Phoney Baloney**
 - 📚 **Quản lý câu lạc bộ**
 
-[![Bisect Hosting](https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_Features.webp)](https://bisecthosting.com/PixelDream "Click me to see what I made and what I'm a part of")
+[![Bisect Hosting](https://www.bisecthosting.com/images/CF/Fantasy_Minecraft_v3/BH_Fantasy_Minecraft_Features.webp)](https://www.curseforge.com/members/kevzcz/projects "Click me to see what I made and what I'm a part of")
 
 Here are some projects I'm working on or is currently being worked on.
 The images I used above are also from my free-time work!
